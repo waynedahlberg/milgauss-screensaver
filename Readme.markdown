@@ -7,25 +7,6 @@ This is a macOS screensaver inspired by the [Rolex Milgauss](https://www.rolex.c
 
 Thank you to Sam Soffes (@soffes) for his library, 'Clock.saver' on Github!
 
-## Installation
-
-**[Download the latest release](https://github.com/soffes/clock-saver/releases).** Unzip and double-click.
-
-Alternatively, if you're using [Homebrew](https://brew.sh), you can run:
-```
-$ brew cask install clocksaver
-```
-
-
-## Preferences
-
-Don’t forget to check out “Screen Saver Options…” in System Preferences. You can change the model and style to your liking.
-
-
-## Building
-
-Xcode 9.3b4 is required since Clock.saver is written in Swift 4.1.
-
 
 ## Watch Faces
 
