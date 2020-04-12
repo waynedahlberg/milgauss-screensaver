@@ -1,9 +1,11 @@
 # Clock.saver
 
-Just a little Mac screensaver inspired by the [Braun watches](http://braun-clocks.com/watches). You pick a model and style. Here’s a screenshot:
+This is a macOS screensaver inspired by the [Rolex Milgauss](https://www.rolex.com/watches/milgauss/m116400gv-0001.html) line of professional watches.
 
-[<img src="https://cdn.dribbble.com/users/1573/screenshots/1460483/clock.png" width="400" alt="Clock Saver Screenshot">](http://dribbble.com/shots/1460483-Clock-Screensaver)
+[<img src="https://cdn.dribbble.com/users/7823/screenshots/455454/milgauss.png" width="400" alt="Rolex Milgauss">](https://dribbble.com/shots/455454-Rolex-Milgauss)
 
+
+Thank you to Sam Soffes (@soffes) for his library, 'Clock.saver' on Github!
 
 ## Installation
 
