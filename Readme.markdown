@@ -13,7 +13,3 @@ Thank you to Sam Soffes (@soffes) for his library, 'Clock.saver' on Github!
 The following models are implemented:
 
 * none yet
-
-Eventually, I'd love to have them all implemented. Here's my [progress](Coverage.markdown).
-
-Enjoy.
